@@ -1,14 +1,10 @@
 # Test Technical Assessments
 
-This repository contains a sample mobile application implemented for both iOS and Android platforms. It demonstrates various UI components and serves as a foundation for automating and testing UI scenarios.
+This repository contains Android test automation scripts covering all the specified scenarios.
 
 ---
 
-## Requirements
-
-### iOS
-- **Xcode**: Version 15.2 or later  
-- **iOS Deployment Target**: iOS 17.1 or later  
+## Requirements 
 
 ### Android
 - **Android Studio**: Version Ladybug or later  
@@ -63,7 +59,7 @@ This repository contains a sample mobile application implemented for both iOS an
 
 2. **Open the Project in the Appropriate IDE**:  
    - For Android: Open the Android project in **Android Studio**.   
-   Ensure you can successfully build and run the project on the chosen platform.
+   Sync the project with Gradle files and rebuild it to ensure everything is configured properly.
 
 3. **Install Dependencies**:  
    - For Android: Install required Android SDKs via **SDK Manager** in Android Studio.
